@@ -22,11 +22,11 @@ Notes about the goals.
 * Resource 1
 * Resource 2
 
-### XYZ with James in Secondary Classroom
+### Jasmine with James in Secondary Classroom
 
 Notes about the goals.
 
-* Resource 1
+* http://pivotal.github.io/jasmine/
 * Resource 2
 
 ### XYZ with Jorge in The Perch
